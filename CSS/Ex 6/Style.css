@@ -1,0 +1,23 @@
+.navMenu{
+    list-style-type:none;
+}
+
+.navMenu li{
+    margin:10px;
+}
+
+a:link{
+    color:blue;
+}
+
+a:hover{
+    color:red;
+}
+
+a:active{
+    color:orange;
+}
+
+a:visited{
+    color:purple;
+}

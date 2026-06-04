@@ -1,0 +1,12 @@
+<h2>Upcoming Events</h2>
+
+<div id="mainHeader">
+    Community Events
+</div>
+
+<div class="eventCard">
+    Music Festival
+</div>
+
+<h3>Contact</h3>
+<p>Welcome to the portal.</p>
