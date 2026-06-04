@@ -1,0 +1,14 @@
+<form onsubmit="document.getElementById('confirmation').value='Thank you for registering!'; return false;">
+    <input type="text" name="name" placeholder="Your Name" required autofocus><br>
+    <input type="email" name="email" placeholder="Email Address" required><br>
+    <input type="date" name="date" required><br>
+    <select name="eventType" required>
+      <option value="">Select Event</option>
+      <option value="concert">Concert</option>
+      <option value="seminar">Seminar</option>
+    </select><br>
+    <textarea placeholder="Message" required></textarea><br>
+    <input type="submit" value="Register"><br>
+    <output id="confirmation"></output>
+  </form>
+ 

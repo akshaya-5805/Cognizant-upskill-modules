@@ -1,0 +1,21 @@
+<table>
+    <caption>Past Community Events</caption>
+    <tr>
+      <td><img src="event1.jpg" alt="Event 1" title="Music Fest" class="gallery"></td>
+      <td><img src="event2.jpg" alt="Event 2" title="Clean-up Drive" class="gallery"></td>
+      <td><img src="event3.jpg" alt="Event 3" title="Food Fair" class="gallery"></td>
+    </tr>
+    <tr>
+      <td><img src="event4.jpg" alt="Event 4" title="Marathon" class="gallery"></td>
+      <td><img src="event5.jpg" alt="Event 5" title="Book Reading" class="gallery"></td>
+      <td><img src="event6.jpg" alt="Event 6" title="Art Show" class="gallery"></td>
+    </tr>
+  </table>
+  
+  <style>
+    .gallery {
+      border: 2px solid #ccc;
+      width: 100px;
+    }
+  </style>
+  
